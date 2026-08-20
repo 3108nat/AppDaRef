@@ -63,7 +63,7 @@
         android:layout_height="wrap_content"
         android:hint="Digite sua senha"
         app:endIconMode="clear_text"
-        app:startIconDrawable="@drawable/baseline_password">
+        app:startIconDrawable="@drawable/baseline_email">
 
         <com.google.android.material.textfield.TextInputEditText
             android:layout_width="match_parent"
